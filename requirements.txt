@@ -1,0 +1,9 @@
+numpy
+scipy
+astropy
+matplotlib
+scikit-image
+imageio
+photutils
+pillow
+pyraf
